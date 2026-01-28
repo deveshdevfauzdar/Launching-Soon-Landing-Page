@@ -1,0 +1,2 @@
+# Launching-Soon-Landing-Page
+This landing page for Chai Culture is designed to reflect a premium and warm brand identity inspired by Indian chai traditions. A clean split layout, earthy color palette, and responsive UI enhance user experience, while the countdown timer and email subscription form drive engagement.
