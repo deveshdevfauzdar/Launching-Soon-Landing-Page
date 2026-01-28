@@ -1,1 +1,0 @@
-I designed the page to align with Chai Culture’s premium and traditional brand identity, using warm earthy tones and a clean visual hierarchy. The layout is fully responsive and optimized for usability across devices. The code follows semantic HTML and structured CSS, keeping the implementation clean, scalable, and easy to maintain.
